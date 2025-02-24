@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    Margin: 0;
+  }
+  h1{
+    color: Black;
+    Background: #fc9c19;
+    Text-align: center;
+    Padding: 16px;
+    Margin: 16px;
+    Font-size: 40px;
+  }
+  img{
+    Width: 400px;
+    Height: 400px;
+    Margin: auto;
+    Display: block;
+  }
+  h2{
+    color: #fc9c19;
+    Background: Black;
+    Text-align: center;
+    Padding: 16px;
+    Margin: 16px;
+    Font-size: 20px;
+  }
+  h3{
+    color: #be7819;
+    Padding: 16px;
+    Margin: 16px;
+    Font-size: 20px;
+  }
+  ul{
+    color: #be7819 ;
+    background-color: white;
+  }
+  li{
+    color: #be7819;
+    font-size:18px;
+    margin:25px;
+  }
+  li:hover{
+    background-color: yellow;
+  }
+  iframe{
+    Width: 550px;
+    Height: 350px;
+    Margin: auto;
+    Display: block;
+  }
+  
+  h4{
+    Text-align: center;
+    font-size: 36px;
+  }
