@@ -1,13 +1,11 @@
 # Receita
 
 ![](./RECEITA.png)
-
-Primeira página criada com foco no github, desenvolvido nas aulas da disciplina linguaem de marcação  na escola senai Jandira
-
+Primeira página criada de front end utilizando o site code pen, a onde fizemos um site de receitas
 ## Tecnologias
 *HTML
 *CSS
-*Markdown
+*Code Pen
 *Github
 *Git
 
